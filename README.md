@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:7C3AED&height=190&section=header&text=CHETAN%20BORSE&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20Security%20Engineering%20%7C%20VAPT&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
@@ -19,9 +18,11 @@
 <a href="mailto:raghupatil1007@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/chetan-borse-3034b425b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/raghupatil1007">
 <img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -329,32 +330,6 @@ IT operations and technical-support experience involving infrastructure manageme
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghupatil1007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghupatil1007&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=raghupatil1007&theme=transparent&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raghupatil1007&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -369,7 +344,11 @@ IT operations and technical-support experience involving infrastructure manageme
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/raghupatil1007/raghupatil1007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghupatil1007/raghupatil1007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghupatil1007/raghupatil1007/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/raghupatil1007/raghupatil1007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
+</picture>
 
 </div>
 
@@ -408,35 +387,3 @@ Open To:
   - Penetration Testing
   - Cybersecurity Engineering
   - Application Security
-````
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:raghupatil1007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/chetan-borse-3034b425b/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/raghupatil1007">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:7C3AED&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**“Build secure systems. Engineer with purpose. Keep learning.”**
-
-</div>
-```
