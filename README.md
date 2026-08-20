@@ -299,3 +299,9 @@ open_to:
   - Application Security roles
   - Security Engineering opportunities
   - Cybersecurity collaborations
+
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
+</p>
