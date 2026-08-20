@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:7C3AED&height=190&section=header&text=CHETAN%20BORSE&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20Security%20Engineering%20%7C%20VAPT&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0728,45:312E81,75:6D28D9,100:8B5CF6&height=190&section=header&text=CHETAN%20BORSE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Security%20Engineering%20%7C%20VAPT&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Cybersecurity+Analyst;Vulnerability+Assessment+%7C+Penetration+Testing;Threat+Analysis+%7C+Network+Security;Linux+%7C+API+Security+%7C+Security+Monitoring;Building+Secure+Production-Ready+Systems" alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Cybersecurity+Analyst;VAPT+%7C+Application+Security;API+Security+%7C+Network+Security;Security+Engineering+%7C+Threat+Analysis;Building+%26+Securing+Modern+Applications" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/MCA-Cybersecurity-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/BCA-Computer%20Applications-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pune-Maharashtra-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=raghupatil1007&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/BCA-Computer%20Applications-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pune-Maharashtra-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=raghupatil1007&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
@@ -20,370 +20,282 @@
 </a>
 
 <a href="https://www.linkedin.com/in/chetan-borse-3034b425b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/raghupatil1007">
-<img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/raghupatil1007?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/raghupatil1007?style=for-the-badge&color=7C3AED&label=STARS"/>
+<img src="https://img.shields.io/github/followers/raghupatil1007?style=for-the-badge&color=6D28D9&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/raghupatil1007?style=for-the-badge&color=4C1D95&label=STARS"/>
 
 </div>
 
 ---
 
-# About
+# 01 // ABOUT ME
 
-I am a **Cybersecurity Analyst** pursuing a **Master of Computer Applications in Cybersecurity**, with hands-on experience across penetration testing, vulnerability assessment, threat analysis, Linux administration, network security, API security testing, security monitoring, and technical support.
+> **Cybersecurity Analyst | Security Engineering | VAPT**
 
-My work combines practical cybersecurity with software engineering fundamentals. I focus on understanding how systems are built, identifying weaknesses, evaluating risk, and developing security-focused solutions that improve resilience and operational visibility.
+I am a cybersecurity-focused professional pursuing an **MCA in Cybersecurity**, with a strong foundation in software development, web application security, vulnerability assessment, API security and network analysis.
 
-I have practical exposure to **Kali Linux, Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP, OpenVAS, Linux, networking, Python, PHP, Bash, SQL, JavaScript, Git, and virtualized environments**.
+My approach combines **software engineering + security engineering** to understand how applications are designed, how attack surfaces emerge, how vulnerabilities can be validated, and how security controls can be improved.
 
-My engineering mindset is focused on:
+I work across practical security testing environments involving **VAPT, web security, API testing, network analysis, reconnaissance and vulnerability assessment**.
 
-- Secure-by-design application development
-- Vulnerability assessment and penetration testing
-- Threat analysis and mitigation
-- Network and API security
-- Security monitoring and event visibility
-- Linux system administration
-- Authentication and access-control mechanisms
-- Security documentation and reporting
-- Practical security automation
-- Production-oriented engineering
+### Security Engineering Mindset
+
+| Area | Focus |
+|---|---|
+| Application Security | Web Application Security • OWASP • Secure Development |
+| VAPT | Reconnaissance • Enumeration • Vulnerability Assessment |
+| API Security | Authentication • Authorization • Input Validation • API Testing |
+| Network Security | Nmap • Wireshark • Network Analysis |
+| Security Testing | Burp Suite • OWASP ZAP • SQLMap • FFUF |
+| Engineering | Python • PHP • JavaScript • SQL • Linux |
+| Automation | Security Tooling • Scripting • Workflow Automation |
 
 ### Open To
 
-**Security Analyst • SOC Analyst • VAPT • Penetration Testing • Cybersecurity Engineering • Application Security • Security Operations**
+`Cybersecurity Analyst` `VAPT` `Application Security` `Security Engineering` `SOC` `API Security` `Security Internship` `Entry-Level Security Roles`
 
 ---
 
-# Tech Stack
+# 02 // TECH STACK
 
-### Languages
+### LANGUAGES
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,php,js,sql,html,css" />
-</p>
+<div align="left"><img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=c"/><img src="https://skillicons.dev/icons?i=cpp"/><img src="https://skillicons.dev/icons?i=java"/><img src="https://skillicons.dev/icons?i=php"/><img src="https://skillicons.dev/icons?i=js"/><img src="https://skillicons.dev/icons?i=html"/><img src="https://skillicons.dev/icons?i=css"/><img src="https://skillicons.dev/icons?i=sql"/></div>
 
-### Frontend
+### FRONTEND
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<div align="left"><img src="https://skillicons.dev/icons?i=html"/><img src="https://skillicons.dev/icons?i=css"/><img src="https://skillicons.dev/icons?i=js"/></div>
 
-### Backend & Databases
+### BACKEND & DATABASES
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
-</p>
+<div align="left"><img src="https://skillicons.dev/icons?i=nodejs"/><img src="https://skillicons.dev/icons?i=express"/><img src="https://skillicons.dev/icons?i=php"/><img src="https://skillicons.dev/icons?i=mysql"/><img src="https://skillicons.dev/icons?i=mongodb"/></div>
 
-### Cloud, DevOps & Tooling
+### DEVELOPMENT & INFRASTRUCTURE
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vmware,vscode" />
-</p>
+<div align="left"><img src="https://skillicons.dev/icons?i=linux"/><img src="https://skillicons.dev/icons?i=git"/><img src="https://skillicons.dev/icons?i=github"/><img src="https://skillicons.dev/icons?i=docker"/><img src="https://skillicons.dev/icons?i=vscode"/></div>
 
-### Security Engineering
+### CYBERSECURITY TOOLKIT
 
-<p>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4D4D4D?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenVAS-6D28D9?style=flat-square"/>
-</p>
+<div align="left"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/><img src="https://img.shields.io/badge/Nmap-2C3E50?style=flat-square"/><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/><img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white"/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/><img src="https://img.shields.io/badge/SQLMap-111111?style=flat-square"/><img src="https://img.shields.io/badge/FFUF-6D28D9?style=flat-square"/></div>
 
 ---
 
-# AI / ML Expertise
+# 03 // AI / ML & SECURITY AUTOMATION
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| AI-Assisted Security | Exploring | Exploring practical applications of AI-assisted workflows within cybersecurity |
-| Security Analytics | Intermediate | Log analysis, centralized monitoring, suspicious-activity detection, and security-event visibility |
-| Security Automation | Intermediate | Automated authentication controls, monitoring workflows, alerts, and security processes |
-| Threat Analysis | Intermediate | Threat identification, vulnerability analysis, mitigation planning, and security reporting |
-| Intelligent Security Workflows | Exploring | Exploring ways to combine automation and intelligent analysis with cybersecurity operations |
+| Security Automation | Intermediate | Python scripting and automation for security workflows |
+| AI for Cybersecurity | Developing | Exploring AI-assisted security analysis and testing |
+| Intelligent Security Testing | Developing | Applying automation concepts to reconnaissance and assessment |
+| Data Analysis | Intermediate | Structured analysis of security and technical data |
+| Python Security Tooling | Intermediate | Scripting, automation and security utilities |
 
 ---
 
-# Featured Projects
+# 04 // FEATURED PROJECTS
 
 <details>
-<summary><strong>🔐 Sekuvo Admin Panel — USB Authentication System</strong></summary>
+<summary><b>🔐 Security Monitoring Dashboard</b></summary>
 
 <br/>
 
-A security-focused administrative panel implementing hardware-bound authentication, session controls, rate limiting, and audit logging.
+A security-focused dashboard concept designed to present monitoring information through a structured web interface.
 
 | Category | Details |
 |---|---|
-| **Stack** | Node.js, Express.js, JavaScript, JWT, Crypto, HTML, CSS, GitHub |
-| **Scale** | Security-focused administrative authentication system |
-| **Performance** | 15-minute session expiry and automatic logout |
-| **Security** | HMAC-SHA256 verification, machine-locked access, rate limiting, audit logging |
-| **Impact** | Layered authentication and brute-force protection |
-| **Repository** | [sekuvo-admin](https://github.com/raghupatil1007/sekuvo-admin) |
+| **Stack** | HTML • CSS • JavaScript |
+| **Scale** | Web-based security dashboard |
+| **Performance** | Lightweight frontend architecture |
+| **Security** | Security monitoring and visibility concepts |
+| **Impact** | Demonstrates security-focused dashboard development |
+| **Repository** | [View Repository](https://github.com/raghupatil1007/security-monitoring-dashboard) |
 
-### Engineering Highlights
+**Engineering Perspective**
 
-- Designed USB-based authentication using the File System Access API.
-- Implemented HMAC-SHA256 key verification.
-- Implemented machine-locked access for authorized devices.
-- Built JWT-based session management.
-- Added 15-minute automatic session expiry.
-- Implemented automatic logout when the browser closes.
-- Added rate limiting after 3 failed authentication attempts.
-- Added a 15-minute authentication lockout.
-- Developed an activity-log interface providing an audit trail of authentication events.
+The project focuses on presenting security information through a clean interface while maintaining a cybersecurity-oriented design philosophy.
 
 </details>
 
 <details>
-<summary><strong>📊 Security Monitoring Dashboard</strong></summary>
+<summary><b>🌐 Dark Web Forensics Guide</b></summary>
 
 <br/>
 
-A centralized dashboard designed to provide visibility into security logs, network traffic, and suspicious activity.
+An interactive cybersecurity project explaining internet layers, dark-web concepts and safe research practices for cybersecurity professionals.
 
 | Category | Details |
 |---|---|
-| **Stack** | PHP, MySQL, HTML, CSS, JavaScript, XAMPP |
-| **Scale** | Centralized security monitoring platform |
-| **Performance** | Real-time monitoring and automated alerting |
-| **Security** | Suspicious-activity detection and centralized event visibility |
-| **Impact** | Improved security monitoring and incident-detection capabilities |
-| **Repository** | [security-monitoring-dashboard](https://github.com/raghupatil1007/security-monitoring-dashboard) |
+| **Stack** | HTML • CSS • JavaScript |
+| **Scale** | Interactive educational web project |
+| **Performance** | Lightweight browser-based implementation |
+| **Security** | Dark-web awareness • Safe research concepts |
+| **Impact** | Cybersecurity education and awareness |
+| **Repository** | [View Repository](https://github.com/raghupatil1007/dark-web-project) |
 
-### Engineering Highlights
+**Engineering Perspective**
 
-- Built a centralized dashboard for monitoring system security logs.
-- Monitored network traffic through a unified interface.
-- Implemented automated alerts for suspicious activity.
-- Integrated multiple log sources.
-- Improved visibility into security events.
-- Designed the project around practical security analytics workflows.
+The project combines cybersecurity education with an interactive web experience, focusing on how security professionals can understand internet infrastructure and research environments responsibly.
 
 </details>
 
 <details>
-<summary><strong>🌐 Network Security Assessment Lab</strong></summary>
+<summary><b>🛡️ Sekuvo Admin</b></summary>
 
 <br/>
 
-A practical security-assessment environment designed to simulate real-world network attack scenarios and vulnerability-analysis workflows.
+A web-based administrative interface project developed as part of a broader application engineering workflow.
 
 | Category | Details |
 |---|---|
-| **Stack** | Kali Linux, Nmap, OpenVAS, VMware, TCP/IP, Linux |
-| **Scale** | Network security assessment laboratory |
-| **Performance** | Structured scanning and vulnerability-analysis workflow |
-| **Security** | Vulnerability identification, risk classification, and remediation planning |
-| **Impact** | Developed practical penetration-testing and vulnerability-assessment skills |
-| **Repository** | GitHub |
+| **Stack** | HTML • CSS • JavaScript |
+| **Scale** | Web administration interface |
+| **Performance** | Lightweight client-side implementation |
+| **Security** | Administrative interface security considerations |
+| **Impact** | Demonstrates application development and security awareness |
+| **Repository** | [View Repository](https://github.com/raghupatil1007/sekuvo-admin) |
 
-### Engineering Highlights
+**Engineering Perspective**
 
-- Identified vulnerabilities through network scanning.
-- Simulated real-world attack scenarios.
-- Practiced penetration-testing methodologies.
-- Classified identified security risks.
-- Produced structured vulnerability-assessment reports.
-- Documented mitigation and remediation recommendations.
+The project demonstrates practical experience with web interfaces while providing a foundation for thinking about authentication, authorization and administrative attack surfaces.
 
 </details>
 
 ---
 
-# Experience
+# 05 // EXPERIENCE
 
-## Cybersecurity Consultant — Prushal Technology Pvt Ltd
+### Cybersecurity Consultant / VAPT
 
-**Apr 2026 – Present · Pune, India**
+**Prushal Technology Pvt. Ltd.**
 
-Cybersecurity consulting experience focused on threat analysis, security controls, vulnerability identification, mitigation planning, security auditing, and security awareness.
+Cybersecurity-focused role involving practical vulnerability assessment and application security activities.
 
-### Scope of Work
+**Scope of Work**
 
-- Analyzed complex security threats and developed strategic mitigation plans.
-- Contributed to a **30% reduction in incident-response time**.
-- Implemented security protocols across cloud and on-premises environments.
-- Contributed to preventing **15+ critical breaches**.
-- Consulted with clients to identify vulnerabilities.
-- Designed customized cybersecurity solutions to improve system resilience.
-- Optimized security-auditing processes.
-- Contributed to a **25% improvement in regulatory compliance**.
-- Delivered security-awareness training to **200+ employees**.
+- Performed vulnerability assessment and security testing.
+- Worked with web application security testing methodologies.
+- Conducted reconnaissance and enumeration activities.
+- Used Burp Suite for request interception and application testing.
+- Performed API security testing.
+- Worked with Nmap and network analysis tools.
+- Documented identified security issues and technical observations.
+- Assisted in validating vulnerabilities and security controls.
 
-`Threat Analysis` `Vulnerability Assessment` `Security Auditing` `Incident Response` `Cloud Security` `Security Awareness`
+**Skills**
 
----
-
-## Campus Ambassador — AcmeGrade
-
-**Sep 2025 – Present · Remote**
-
-Campus and technology-community role focused on student engagement, event coordination, outreach, and program promotion.
-
-### Scope of Work
-
-- Organized and promoted **10+ campus events**.
-- Increased student participation by **25%**.
-- Recruited and trained **5 student volunteers**.
-- Ran social-media campaigns reaching **5,000+ students**.
-- Increased event attendance by **30%**.
-- Partnered with university departments to secure resources and sponsorships.
-- Exceeded fundraising goals by **15%**.
-
-`Leadership` `Community Building` `Event Management` `Outreach`
+`VAPT` `Burp Suite` `Nmap` `API Security` `Web Security` `Linux` `Security Testing`
 
 ---
 
-## Computer Operator / IT Support — Amreli Tech Pvt Ltd
+### Computer Operator
 
-**Jun 2023 – Jul 2024 · Surat, India**
+**Amreli Tech — Surat**
 
-IT operations and technical-support experience involving infrastructure management, system administration, hardware/software deployment, and network support.
+Technical and operational role involving computer systems, documentation and technical support activities.
 
-### Scope of Work
+**Scope of Work**
 
-- Managed and maintained **50+ servers**.
-- Maintained **99.9% uptime** for critical business applications.
-- Resolved an average of **25 user-support tickets daily**.
-- Achieved a **95% first-call resolution rate**.
-- Optimized hardware and software installation processes.
-- Reduced deployment time by **20%**.
-- Assisted with network-infrastructure upgrades.
-- Contributed to a **15% improvement in data-transfer speeds**.
+- Maintained technical records and system documentation.
+- Supported day-to-day computer operations.
+- Assisted with technical troubleshooting.
+- Maintained structured logs and operational information.
+- Worked with computer systems and productivity tools.
 
-`Linux` `Windows` `Networking` `System Administration` `IT Support` `Infrastructure`
+**Skills**
+
+`Technical Support` `Computer Operations` `Documentation` `Troubleshooting`
 
 ---
 
-# Achievements
+# 06 // ACHIEVEMENTS
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| **Security Consulting Impact** | Contributed to a 30% reduction in incident-response time |
-| **Critical Security Prevention** | Contributed to preventing 15+ critical breaches |
-| **Security Awareness** | Delivered security-awareness training to 200+ employees |
-| **Infrastructure Reliability** | Maintained 99.9% uptime across 50+ servers |
-| **IT Support Excellence** | Achieved 95% first-call resolution |
-| **Campus Leadership** | Organized and promoted 10+ campus events |
-| **Community Reach** | Reached 5,000+ students through outreach campaigns |
+| 🎓 BCA | Bachelor of Computer Applications |
+| 🛡️ Cybersecurity Training | Completed practical cybersecurity training |
+| 🧑‍💻 Campus Ambassador | AcmeGrade Campus Ambassador |
+| 🔐 Security Practice | Hands-on VAPT and security testing experience |
+| 📚 MCA Cybersecurity | Currently pursuing postgraduate studies in Cybersecurity |
 
 </div>
 
 ---
 
-# Certifications
-
-### Deloitte Australia
-
-<a href="https://www.deloitte.com/">
-<img src="https://img.shields.io/badge/Deloitte%20Australia-Cybersecurity%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/>
-</a>
-
-**Cybersecurity Job Simulation · Jan 2026**
+# 07 // CERTIFICATIONS
 
 ### AcmeGrade
 
-<a href="https://www.acmegrade.com/">
-<img src="https://img.shields.io/badge/AcmeGrade-Cybersecurity%20Training-6D28D9?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/AcmeGrade-Cyber%20Security%20Training-6D28D9?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/AcmeGrade-Campus%20Ambassador-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
 
-**Cybersecurity Training Program · Oct 2025 – Nov 2025**
+### Security & Technical Learning
+
+<img src="https://img.shields.io/badge/VAPT-Security%20Testing-5B21B6?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Security-Practical%20Testing-6D28D9?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Security%20Environment-4C1D95?style=for-the-badge&logo=linux&logoColor=white"/>
 
 ---
 
-# Coding Profiles
+# 08 // CODING PROFILES
 
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROFILE-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HACKERRANK-PROFILE-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-6366F1?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CODECHEF-PROFILE-111827?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
 </a>
 
 </div>
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghupatil1007&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghupatil1007/raghupatil1007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghupatil1007/raghupatil1007/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/raghupatil1007/raghupatil1007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
-</picture>
-
-</div>
-
----
-
-# Current Focus
+# 09 // CURRENT FOCUS
 
 ```yaml
-Learning:
-  - Advanced Cybersecurity
-  - Penetration Testing
-  - Vulnerability Assessment
-  - Threat Analysis
-  - Security Operations
-  - API Security Testing
-  - Network Security
-
-Building:
-  - Security Monitoring Systems
-  - Secure Authentication Systems
-  - Cybersecurity Tooling
-  - Security Assessment Labs
-  - Security Automation
-
-Exploring:
-  - AI-Assisted Cybersecurity
-  - Security Analytics
-  - Threat Detection
-  - Security Automation
-  - Secure Software Engineering
-
-Open To:
-  - Security Analyst
-  - SOC Analyst
-  - VAPT
-  - Penetration Testing
-  - Cybersecurity Engineering
+learning:
   - Application Security
+  - API Security
+  - Advanced VAPT
+  - Network Security
+  - Security Automation
+  - Cloud Security Fundamentals
+
+building:
+  - Security-focused web applications
+  - Cybersecurity automation projects
+  - VAPT labs and practical security tooling
+
+exploring:
+  - AI-assisted cybersecurity
+  - Threat Detection
+  - Secure Software Development
+  - DevSecOps
+  - Modern Application Security
+
+open_to:
+  - Cybersecurity Analyst roles
+  - VAPT opportunities
+  - Application Security roles
+  - Security Engineering opportunities
+  - Cybersecurity collaborations
