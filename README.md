@@ -68,23 +68,93 @@ I work across practical security testing environments involving **VAPT, web secu
 
 ### LANGUAGES
 
-<div align="left"><img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=c"/><img src="https://skillicons.dev/icons?i=cpp"/><img src="https://skillicons.dev/icons?i=java"/><img src="https://skillicons.dev/icons?i=php"/><img src="https://skillicons.dev/icons?i=js"/><img src="https://skillicons.dev/icons?i=html"/><img src="https://skillicons.dev/icons?i=css"/><img src="https://skillicons.dev/icons?i=sql"/></div>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sql"/>
+
+</div>
 
 ### FRONTEND
 
-<div align="left"><img src="https://skillicons.dev/icons?i=html"/><img src="https://skillicons.dev/icons?i=css"/><img src="https://skillicons.dev/icons?i=js"/></div>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</div>
 
 ### BACKEND & DATABASES
 
-<div align="left"><img src="https://skillicons.dev/icons?i=nodejs"/><img src="https://skillicons.dev/icons?i=express"/><img src="https://skillicons.dev/icons?i=php"/><img src="https://skillicons.dev/icons?i=mysql"/><img src="https://skillicons.dev/icons?i=mongodb"/></div>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</div>
 
 ### DEVELOPMENT & INFRASTRUCTURE
 
-<div align="left"><img src="https://skillicons.dev/icons?i=linux"/><img src="https://skillicons.dev/icons?i=git"/><img src="https://skillicons.dev/icons?i=github"/><img src="https://skillicons.dev/icons?i=docker"/><img src="https://skillicons.dev/icons?i=vscode"/></div>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</div>
 
 ### CYBERSECURITY TOOLKIT
 
-<div align="left"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/><img src="https://img.shields.io/badge/Nmap-2C3E50?style=flat-square"/><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/><img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white"/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/><img src="https://img.shields.io/badge/SQLMap-111111?style=flat-square"/><img src="https://img.shields.io/badge/FFUF-6D28D9?style=flat-square"/></div>
+<div align="left">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nmap-2C3E50?style=flat-square"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQLMap-111111?style=flat-square"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FFUF-6D28D9?style=flat-square"/>
+
+</div>
 
 ---
 
@@ -236,12 +306,15 @@ Technical and operational role involving computer systems, documentation and tec
 ### AcmeGrade
 
 <img src="https://img.shields.io/badge/AcmeGrade-Cyber%20Security%20Training-6D28D9?style=for-the-badge&logo=security&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AcmeGrade-Campus%20Ambassador-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
 
 ### Security & Technical Learning
 
 <img src="https://img.shields.io/badge/VAPT-Security%20Testing-5B21B6?style=for-the-badge&logo=owasp&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/API%20Security-Practical%20Testing-6D28D9?style=for-the-badge&logo=postman&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Linux-Security%20Environment-4C1D95?style=for-the-badge&logo=linux&logoColor=white"/>
 
 ---
@@ -300,9 +373,4 @@ open_to:
   - Security Engineering opportunities
   - Cybersecurity collaborations
 ```
-
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
-</p>
+<h2 align="center">Contribution Snake</h2> <p align="center"> <img src="./dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"> </p>
