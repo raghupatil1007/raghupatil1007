@@ -11,11 +11,11 @@
 <img src="https://img.shields.io/badge/MCA-Cybersecurity-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/BCA-Computer%20Applications-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pune-Maharashtra-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=raghupatil1007&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=chetanborse0712&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<a href="mailto:raghupatil1007@gmail.com">
+<a href="mailto:chetanborse0712@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -23,14 +23,14 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/raghupatil1007">
+<a href="https://github.com/chetanborse0712">
 <img src="https://img.shields.io/badge/GitHub-Profile-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/raghupatil1007?style=for-the-badge&color=6D28D9&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/raghupatil1007?style=for-the-badge&color=4C1D95&label=STARS"/>
+<img src="https://img.shields.io/github/followers/chetanborse0712?style=for-the-badge&color=6D28D9&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/chetanborse0712?style=for-the-badge&color=4C1D95&label=STARS"/>
 
 </div>
 
@@ -186,7 +186,7 @@ A security-focused dashboard concept designed to present monitoring information 
 | **Performance** | Lightweight frontend architecture |
 | **Security** | Security monitoring and visibility concepts |
 | **Impact** | Demonstrates security-focused dashboard development |
-| **Repository** | [View Repository](https://github.com/raghupatil1007/security-monitoring-dashboard) |
+| **Repository** | [View Repository](https://github.com/chetanborse0712/security-monitoring-dashboard) |
 
 **Engineering Perspective**
 
@@ -208,7 +208,7 @@ An interactive cybersecurity project explaining internet layers, dark-web concep
 | **Performance** | Lightweight browser-based implementation |
 | **Security** | Dark-web awareness • Safe research concepts |
 | **Impact** | Cybersecurity education and awareness |
-| **Repository** | [View Repository](https://github.com/raghupatil1007/dark-web-project) |
+| **Repository** | [View Repository](https://github.com/chetanborse0712/dark-web-project) |
 
 **Engineering Perspective**
 
@@ -230,7 +230,7 @@ A web-based administrative interface project developed as part of a broader appl
 | **Performance** | Lightweight client-side implementation |
 | **Security** | Administrative interface security considerations |
 | **Impact** | Demonstrates application development and security awareness |
-| **Repository** | [View Repository](https://github.com/raghupatil1007/sekuvo-admin) |
+| **Repository** | [View Repository](https://github.com/chetanborse0712/sekuvo-admin) |
 
 **Engineering Perspective**
 
